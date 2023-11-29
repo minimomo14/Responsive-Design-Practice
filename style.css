@@ -34,6 +34,10 @@ body {
         font-size: .5em;
         padding: 0;
     }
+    footer {
+        font-size: .5em;
+        padding: 0;
+    }
 }
 
 .push {
@@ -73,6 +77,12 @@ a {
     background-color: #444;
     padding: 90px;
     margin: 20px;
+}
+
+/* footer  */
+footer {
+    font-size: .7em;
+    text-align: center;
 }
 
 
